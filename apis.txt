@@ -1,0 +1,14 @@
+Miku API
+https://miku-for.us
+
+Cat, dog, panda API
+https://some-random-api.ml
+
+Duck API
+https://random-d.uk
+
+Genderize API
+https://api.genderize.io
+
+Bored API
+https://www.boredapi.com/
