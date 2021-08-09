@@ -18,6 +18,6 @@ currently has 1.373 lines plz be nice
 
 Please do not make instances of this bot, as everything is purposely configured for a single server.
 
-Me as a beginner wrote this bot, so thought that maybe any of you would spend some time reading this bot and maybe understand some stuff about coding bit more if you wish to 🙏
+Me as a beginner wrote this bot, so thought that maybe any of you would spend some time reading this bot and try to understand some stuff about coding bit more if you wish to 🙏
 
 Thank you!
