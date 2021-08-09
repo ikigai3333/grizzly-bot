@@ -12,8 +12,8 @@ class Unban(commands.Cog):
     async def on_ready(self):
         print(f"Unban has been loaded.")
 
-    
-    @commands.command(name="unban", aliases=['ub'], description="Unbans a user by their Discord username and tag.", usage=".unban <user> or .ub <user>") # i know this is a very shitty way of unbanning someone, but still works so / wish i could use typing.Union but couldn't figure out how to use it properly
+    # i know this is a very shitty way of unbanning someone, but still works so / wish i could use typing.Union but couldn't figure out how to use it properly
+    @commands.command(name="unban", aliases=['ub'], description="Unbans a user by their Discord username and tag.", usage=".unban <user> or .ub <user>")
     @commands.guild_only()
     @commands.has_guild_permissions(ban_members=True)
     async def unban(self, ctx, *, member=None):
