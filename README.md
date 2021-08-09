@@ -6,9 +6,9 @@ currently has 1.373 lines plz be nice
 
 # To do list
 
-**♡** maybe add some more api stuff?~?~?~? those were fun
-**♡** make an embed builder so i don't have to fuckn make an embed for every line of code
-**♡** more stability, less errors etcetc
+**♡** maybe add some more api stuff?~?~?~? those were fun\n
+**♡** make an embed builder so i don't have to fuckn make an embed for every line of code\n
+**♡** more stability, less errors etcetc\n
 
 
 # Warning
