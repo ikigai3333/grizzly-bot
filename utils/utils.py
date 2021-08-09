@@ -4,7 +4,7 @@ import discord
 from itertools import cycle 
 
 # config
-GRIZZTOKEN = "ODUzNTExMzgwNjM1MzUzMTI4.YMWcag.gKo9KpHiHAFoAAuoaYAOJaVSeag"
+GRIZZTOKEN = "No"
 INTENTS = discord.Intents.all()
 PREFIX = "."
 STATUS = cycle(['osu!', 'grizzly lovs you ♡'])
