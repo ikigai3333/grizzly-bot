@@ -1,6 +1,7 @@
 # Grizzly Bot
 
 A bot that's written for [grizzlypng's osu! server.](https://discord.gg/gpng)
+
 currently has 1.373 lines plz be nice
 
 
