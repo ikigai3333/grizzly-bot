@@ -4,6 +4,8 @@ A bot that's written for [grizzlypng's osu! server.](https://discord.gg/gpng)
 
 currently has 1.373 lines plz be nice
 
+you can reach me through Discord if you find any errors / problems (ikigai#3333)
+
 
 # To do list
 
