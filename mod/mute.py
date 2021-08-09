@@ -47,7 +47,7 @@ class Mute(commands.Cog):
         except discord.HTTPException:
             pass
 
-        embed5=discord.Embed(title=f"{utils.OKCHAR} Successfully muted.", description=f'{utils.MEMBERCHAR} **Muted Member:** `{member} (ID: `{member.id}`)\n{utils.MODCHAR} **Responsible Moderator:** {ctx.author.mention}\n{utils.REASONCHAR} **Reason:** "{reason}"', color=utils.OKCOLOR, timestamp=utils.TIMESTAMP)
+        embed5=discord.Embed(title=f"{utils.OKCHAR} Successfully muted.", description=f'{utils.MEMBERCHAR} **Muted Member:** `{member}` (ID: `{member.id}`)\n{utils.MODCHAR} **Responsible Moderator:** {ctx.author.mention}\n{utils.REASONCHAR} **Reason:** "{reason}"', color=utils.OKCOLOR, timestamp=utils.TIMESTAMP)
         embed5.set_thumbnail(url=member.avatar_url)
         await ctx.send(embed=embed5)
     
