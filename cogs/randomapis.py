@@ -25,7 +25,7 @@ class RandomAPIs(commands.Cog):
                     res = await r.json(content_type=None)
 
                     embed1=discord.Embed(color=utils.MIKUCOLOR, timestamp=utils.TIMESTAMP)
-                    embed1.set_author(name="miku! <a:dancemiku:840294007241965599>", url="https://miku-for.us", icon_url=res['url'])
+                    embed1.set_author(name="miku!", url="https://miku-for.us", icon_url=res['url'])
                     embed1.set_image(url=res['url'])
                     await ctx.send(embed=embed1)
 
@@ -70,7 +70,7 @@ class RandomAPIs(commands.Cog):
                     res = await r.json(content_type=None)
 
                     embed4=discord.Embed(color=utils.CDCOLOR, timestamp=utils.TIMESTAMP)
-                    embed4.set_author(name=f"dawg <a:dawg:858489651332644884>", url="https://some-random-api.ml", icon_url=res['link'])
+                    embed4.set_author(name=f"dawg", url="https://some-random-api.ml", icon_url=res['link'])
                     embed4.set_image(url=res['link'])
                     await ctx.send(embed=embed4)
 
