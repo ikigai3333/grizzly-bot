@@ -1,4 +1,3 @@
-from os import name
 import discord
 import grizzly
 import utils
