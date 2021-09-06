@@ -1,6 +1,6 @@
 import discord
 
-GRIZZTOKEN = "ODUzNTExMzgwNjM1MzUzMTI4.YMWcag.XiZZ6RCLoe5fokc5LnaewW8kO_c"
+GRIZZTOKEN = "No"
 
 #embed
 ERRCOLOR = 0xec484c
