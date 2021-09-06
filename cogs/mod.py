@@ -235,22 +235,7 @@ class Mod(commands.Cog):
         except:
             await self.grizzly.esnipe_err(ctx)
 
-    
-    @commands.command(name='scamlink', aliases=['sl'], description='Deletes all the scam links from a specific member.', usage='.scamlink <member> or .sl <member>')
-    @commands.guild_only()
-    @commands.has_guild_permissions(kick_members=True)
-    async def scamlink(self, ctx, member: discord.Member=None):
-        if not member:
-            await self.grizzly.mod_err_nomember(ctx)
-            return
-        
-        for channel in ctx.guild.text_channels:
-            async for message in channel.history(limit=1):
-                if message.author.id == member.id:
-                    await message.delete()
 
-
-    
     
     @ban.error
     async def ban_error(self, ctx, error):
