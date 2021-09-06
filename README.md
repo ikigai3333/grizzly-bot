@@ -1,25 +1,5 @@
 # Grizzly Bot
 
-A bot that's written for [grizzlypng's osu! server.](https://discord.gg/gpng)
+A bot that's written for [grizzlypng's osu! server.](https://discord.gg/gpng)  
 
-currently has 1.373 lines plz be nice
-
-you can reach me through Discord if you find any errors / problems (ikigai#3333)
-
-
-# To do list
-
-**♡** maybe add some more api stuff?-?-? those were fun
-
-**♡** make an embed builder so i don't have to fuckn make an embed for every line of code
-
-**♡** more stability, less errors etcetc
-
-
-# Warning
-
-Please do not make instances of this bot, as everything is purposely configured for a single server.
-
-Me as a beginner wrote this bot, so thought that maybe any of you would spend some time reading this bot and try to understand some stuff about coding bit more if you wish to 🙏
-
-Thank you!
+you can reach me through Discord if you find any errors / problems or if you have any questions (len#3333)
